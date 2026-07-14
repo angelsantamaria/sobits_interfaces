@@ -38,6 +38,7 @@ set(srv_files
   srv/SetAllowedCollisions.srv
   srv/SetAttachedObjects.srv
   srv/SetCollisionObjects.srv
+  srv/TextToSpeech.srv
 )
 set(action_files
   action/ChatLlmRecognition.action
