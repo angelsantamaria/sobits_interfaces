@@ -1,0 +1,5 @@
+# Service equivalent of action/TextToSpeech.action without feedback.
+string text
+---
+bool success
+float32 total_time
