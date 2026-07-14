@@ -30,6 +30,7 @@ set(srv_files
   srv/GetHandToTargetTF.srv
   srv/Features.srv
   srv/Feature3d.srv
+  srv/TextToSpeech.srv
   srv/VlaRecordState.srv
   srv/VlaUpdateTask.srv
 )
